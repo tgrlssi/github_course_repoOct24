@@ -1,1 +1,4 @@
 basil
+thyme 
+koriander
+rice
